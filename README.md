@@ -10,13 +10,13 @@ Throughout the project, we successfully implemented a working quantum communicat
 # Future Possibilities
 While the completion of the quantum communication module marks an important milestone for the Quantum OTP project, there are still numerous avenues for further exploration and improvement. Some potential future directions for this project include:
 
-### Algorithmic Enhancements: Investigating and implementing advanced quantum algorithms and protocols to improve the efficiency and robustness of the encryption process.
+Algorithmic Enhancements: Investigating and implementing advanced quantum algorithms and protocols to improve the efficiency and robustness of the encryption process.
 
-### Experimental Testing: Conducting experiments to validate the performance and security of the Quantum OTP scheme in practical scenarios.
+Experimental Testing: Conducting experiments to validate the performance and security of the Quantum OTP scheme in practical scenarios.
 
-### Quantum Key Distribution: Exploring the integration of quantum key distribution (QKD) protocols with OTP encryption to establish secure keys for future communications.
+Quantum Key Distribution: Exploring the integration of quantum key distribution (QKD) protocols with OTP encryption to establish secure keys for future communications.
 
-### User-Friendly Interface: Developing a user-friendly interface that simplifies the usage of the Quantum OTP system, making it accessible to a wider audience.
+User-Friendly Interface: Developing a user-friendly interface that simplifies the usage of the Quantum OTP system, making it accessible to a wider audience.
 
 # Conclusion
 The Quantum OTP project has successfully developed a quantum communication module that enhances the security of OTP encryption. With the completion of this phase, the project has reached its current conclusion. However, the door remains open for future improvements and expansions.
