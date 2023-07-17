@@ -1,5 +1,5 @@
 # Quantum OTP Project
-This project, called Quantum OTP, was developed with the help of Yamina Guenez. The main objective of this project was to explore and implement a quantum communication module that utilizes the concept of one-time pad (OTP) encryption.
+This project, called Quantum OTP, was developed with the help of Yamina guenez. The main objective of this project was to explore and implement a quantum communication module that utilizes the concept of one-time pad (OTP) encryption.
 
 # Project Overview
 The Quantum OTP project aimed to leverage the principles of quantum mechanics to enhance the security of OTP encryption. OTP is a well-known encryption technique that provides perfect secrecy when used correctly. By integrating quantum communication into the OTP scheme, we aimed to harness the unique properties of quantum systems to further enhance the security of the encryption process.
