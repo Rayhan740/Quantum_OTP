@@ -19,13 +19,7 @@ Quantum Key Distribution: Exploring the integration of quantum key distribution 
 User-Friendly Interface: Developing a user-friendly interface that simplifies the usage of the Quantum OTP system, making it accessible to a wider audience.
 
 # Conclusion
-The Quantum OTP project has successfully developed a quantum communication module that enhances the security of OTP encryption. With the completion of this phase, the project has reached its current conclusion. However, the door remains open for future improvements and expansions.
-
-I express our gratitude to Yamina Guenez for her assistance and collaboration throughout this project. Their contributions were instrumental in achieving the project's objectives.
-
-Please refer to the project documentation(hope will be uploaded soon) and codebase for more details on the implementation and usage of the Quantum OTP system.
-
-For any inquiries or further information, please feel free to contact.
+The Quantum OTP project has successfully developed a quantum communication module that enhances the security of OTP encryption. With the completion of this phase, the project has reached its current conclusion. However, the door remains open for future improvements and expansions. I express our gratitude to Yamina Guenez for her assistance and collaboration throughout this project. Their contributions were instrumental in achieving the project's objectives. Please refer to the project documentation(hope will be uploaded soon) and codebase for more details on the implementation and usage of the Quantum OTP system. For any inquiries or further information, please feel free to contact.
 
 Thank you.
 Sakibul Islam Rayhan
